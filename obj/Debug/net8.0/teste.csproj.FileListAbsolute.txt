@@ -1,0 +1,14 @@
+/home/rodrigo/Documentos/estudos estagio incantare/teste/bin/Debug/net8.0/teste
+/home/rodrigo/Documentos/estudos estagio incantare/teste/bin/Debug/net8.0/teste.deps.json
+/home/rodrigo/Documentos/estudos estagio incantare/teste/bin/Debug/net8.0/teste.runtimeconfig.json
+/home/rodrigo/Documentos/estudos estagio incantare/teste/bin/Debug/net8.0/teste.dll
+/home/rodrigo/Documentos/estudos estagio incantare/teste/bin/Debug/net8.0/teste.pdb
+/home/rodrigo/Documentos/estudos estagio incantare/teste/obj/Debug/net8.0/teste.GeneratedMSBuildEditorConfig.editorconfig
+/home/rodrigo/Documentos/estudos estagio incantare/teste/obj/Debug/net8.0/teste.AssemblyInfoInputs.cache
+/home/rodrigo/Documentos/estudos estagio incantare/teste/obj/Debug/net8.0/teste.AssemblyInfo.cs
+/home/rodrigo/Documentos/estudos estagio incantare/teste/obj/Debug/net8.0/teste.csproj.CoreCompileInputs.cache
+/home/rodrigo/Documentos/estudos estagio incantare/teste/obj/Debug/net8.0/teste.dll
+/home/rodrigo/Documentos/estudos estagio incantare/teste/obj/Debug/net8.0/refint/teste.dll
+/home/rodrigo/Documentos/estudos estagio incantare/teste/obj/Debug/net8.0/teste.pdb
+/home/rodrigo/Documentos/estudos estagio incantare/teste/obj/Debug/net8.0/teste.genruntimeconfig.cache
+/home/rodrigo/Documentos/estudos estagio incantare/teste/obj/Debug/net8.0/ref/teste.dll

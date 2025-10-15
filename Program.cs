@@ -27,12 +27,13 @@ string Pedir_valor(string pedido)
     do
     {
         dados = Console.ReadLine();
-        if (dados == "" || dados == " " || dados == null)
+
+        if (string.IsNullOrWhiteSpace(dados))
         {
-            Console.WriteLine($"por favor infome um {pedido}");
+            Console.Write($"por favor infome um {pedido}");
         }
     
-    } while (dados == "");
+    } while (string.IsNullOrWhiteSpace(dados));
     
     return dados;
 }
